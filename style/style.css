@@ -1,0 +1,33 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    position: absolute;
+    margin-top: 200px;
+}
+
+.secondHeader {
+    text-align: center;
+    margin-bottom: 100px;
+    text-wrap: 50%;
+    padding-right: 270px;
+    padding-left: 270px;
+}
+
+.middlesection p {
+    text-align: center;
+    padding-right: 340px;
+    padding-left: 340px;
+}
+
+.middlesection h1 {
+    text-align: center;
+}
+
+.bigScreen {
+    margin-top: 75px;
+    margin-right: 50px;
+}
