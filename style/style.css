@@ -64,6 +64,8 @@
     margin-bottom: 25px;
 }
 
+.something {}
+
 .sectionsWithPictures {
     display: flex;
     justify-content: column;
