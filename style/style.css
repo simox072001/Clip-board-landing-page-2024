@@ -4,9 +4,13 @@
     justify-content: center;
 }
 
+#background {
+    width: 100%;
+}
+
 #logo {
     position: absolute;
-    margin-top: 200px;
+    margin-top: 150px;
 }
 
 .secondHeader {
@@ -28,6 +32,68 @@
 }
 
 .bigScreen {
+    width: 50%;
+    margin-right: 75px;
+    margin-left: -25px;
+}
+
+.midSectionDiv {
     margin-top: 75px;
     margin-right: 50px;
+    display: inline-flex;
+}
+
+.textBigScreen {
+    width: 50%;
+    height: 100%;
+}
+
+.accessPlusImage {
+    text-align: center;
+    margin-top: 75px;
+    text-wrap: 50%;
+}
+
+.tabletAndSmartPhone {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.supercharge {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.sectionsWithPictures {
+    display: flex;
+    justify-content: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 75px;
+    margin-top: 75px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.blackList {
+    position: absolute;
+    height: 5%;
+    width: 5%;
+    margin-bottom: 150px;
+}
+
+.text {
+    position: absolute;
+    height: 5%;
+    width: 5%;
+    margin-left: 350px;
+    margin-bottom: 150px;
+}
+
+.preview {
+    position: absolute;
+    height: 5%;
+    width: 5%;
+    margin-left: 650px;
+    margin-bottom: 150px;
 }
